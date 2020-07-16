@@ -183,7 +183,7 @@ body{
 .main-content_play-image{
     position: relative;
     -webkit-transform: translateX(5px);
-            transform: translateX(65px);
+            transform: translateX(5px);
 }
 
 /*SLIDER*/
